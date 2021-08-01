@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Tan here
+
+- 🌱 I’m currently learning ...JavaScript
+- 📫 How to reach me: ...Tan_Shadow#3697 (Discord)
+- 😄 Pronouns: ...(He/Him)
+
 <!--
 **Tan-Shadow/tan-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
