@@ -3,8 +3,8 @@ tan@github:~$ neofetch
           ///           tan@github
         ////////        name: tanShadow      
         ///             livesIn: India (::1)
-       ///              learning: JavaScript (react), Java
-      ///               thingsILike: Anime, Chess, Music, Coding
+       ///              learning: taking a break rn 
+      ///               thingsILike: Anime, Chess, Music, Fiction novels
      ///////            connectMe: Tan_Shadow#3697 (Discord)
      
 tan@github:~$ sudo rm -rf /*
